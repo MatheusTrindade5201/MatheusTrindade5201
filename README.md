@@ -1,9 +1,27 @@
-Ola! Meu nome é Matheus.
+![github-header-image](https://user-images.githubusercontent.com/104238483/193122617-b2235f23-2475-4c83-add9-e0ddf056243b.png)
 
 
+Sou Desenvolvedor Front-end, migrado da área da logistica, vim para juntar minha experiência na resolução de problemas com a força da lógica e das linhas de códigos!
 
-- 🌱 Estou me aprimorando atualmente em HTML | CSS | JavaScript
-- 📫 meios de contato: matheus.trindade5201@hotmail.com 
+
+<p>📫 Entre em contato: matheus.trindade5201@hotmail.com</p>
+
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+</p>
+
+## 👥 Conecte-se comigo:
+<p>
+<a href="https://linkedin.com/in/matheus-trindade5201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/Matheus%20Trindade#3935"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+
+## 📊 Github Status
 
 <div align='center'>
 <a height="150em" href="http://www.github.com/MatheusTrindade5201"><img src="https://github-readme-stats.vercel.app/api?username=MatheusTrindade5201&show_icons=true&theme=tokyonight" /></a>
@@ -11,7 +29,9 @@ Ola! Meu nome é Matheus.
   <div align='center'>
 <a height="150em" href="http://www.github.com/MatheusTrindade5201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusTrindade5201&theme=tokyonight" /></a>
 </div>
-</div
+
+
+
 
 
                       
