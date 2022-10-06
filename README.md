@@ -3,9 +3,6 @@
 
 Sou Desenvolvedor Front-end, migrado da área da logistica, vim para juntar minha experiência na resolução de problemas com a força da lógica e das linhas de códigos!
 
-
-<p>📫 Entre em contato: matheus.trindade5201@hotmail.com</p>
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
@@ -25,6 +22,7 @@ Sou Desenvolvedor Front-end, migrado da área da logistica, vim para juntar minh
 <p>
 <a href="https://linkedin.com/in/matheus-trindade5201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/Matheus%20Trindade#3935"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href= "mailto:matheus.trindade5201@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 
