@@ -21,7 +21,7 @@ Sou Desenvolvedor Front-end, migrado da área da logistica, vim para juntar minh
 ## 👥 Conecte-se comigo:
 <p>
 <a href="https://linkedin.com/in/matheus-trindade5201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://discord.gg/4WWN2JRB"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://discord.gg/4WWN2JRB" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href= "mailto:matheus.trindade5201@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
